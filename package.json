@@ -1,5 +1,5 @@
 {
-  "name": "jasmine-ts",
+  "name": "jasmine-ts-mem-fix",
   "version": "0.3.0",
   "description": "Execute jasmine with ts-node",
   "main": "lib/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svi3c/jasmine-ts.git"
+    "url": "git+https://github.com/MeyCry/jasmine-ts.git"
   },
   "keywords": [
     "node",
